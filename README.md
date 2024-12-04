@@ -1,8 +1,8 @@
-                                                                            Banking Frontend
+                                                        Banking Frontend
 The Banking Frontend is a React-based single-page application (SPA) designed to provide an interactive and intuitive user interface for banking operations. It seamlessly connects with the Banking Backend API to enable functionalities such as user profile management, account operations, and credit/loan applications.
 
 
-									Table of Contents
+							Table of Contents
 Overview
 Features
 Technologies Used
@@ -15,7 +15,7 @@ Usage
 Contributing
 License
 Contact
-										Overview
+								Overview
 
 The Banking Frontend provides an easy-to-navigate interface for users to interact with their banking services. From creating accounts to applying for loans and credit cards, this frontend ensures a seamless and secure user experience.
 
@@ -50,7 +50,7 @@ Styling: CSS Modules
 Routing: React Router
 Version Control: Git
 
-										Getting Started
+								Getting Started
 
 Prerequisites
 Before setting up the project, ensure you have the following installed:
@@ -79,7 +79,7 @@ export const API_BASE_URL = "http://localhost:8080";
 Project Structure
 The project follows a modular structure for scalability and ease of maintenance:
 
-									Banking-Frontend/
+							Banking-Frontend
 ├── src/
 │ ├── components/ # Reusable React components
 │ ├── pages/ # Page-specific components
@@ -94,7 +94,7 @@ The project follows a modular structure for scalability and ease of maintenance:
 ├── package.json # Project metadata and dependencies
 └── README.md # Project documentation
 
-											Usage
+									Usage
 Testing the Application
 Start the backend server following its documentation.
 Run the frontend as described in the installation section.
@@ -102,7 +102,7 @@ Use the application via http://localhost:3000:
 Create a user and login.
 Explore account and transaction features.
 Apply for loans and credit cards.
-											Contributing
+									Contributing
 
 Contributions are welcome! Follow these steps to contribute:
 
